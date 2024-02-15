@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuuxd&label=Profile%20views&color=0e75b6&style=flat" alt="anshu kumar" /> </p>
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=anshuuxd&label=Profile%20views&color=0e75b6&style=flat" alt="anshu kumar" /> </a>
 
 ## Support accepted 🔫
 <a href="https://www.buymeacoffee.com/anshux" target="_blank"><img src="https://bitbucket.org/tinztwins/materials/raw/9c7e16f90082b88ed52164fab06f0dbed18c8c86/yellow_bmc.png" alt="Buy Me A Coffee" style="height: 41px !important; width: 174px !important;" ></a>
