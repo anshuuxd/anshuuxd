@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/anshu kumar?logo=twitter&style=for-the-badge" alt="anshu kumar"  </p>
 
-- 🔭 I’m currently working on **MY WAIFU**
+- 🔭 I’m currently working on **my portfolio**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **full stack development**
 
 - 📫 How to reach me **mailtoanshu404@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Funny and 17**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
