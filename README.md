@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuuxd&label=Profile%20views&color=0e75b6&style=flat" alt="anshu kumar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/anshu kumar?logo=twitter&style=for-the-badge" alt="anshu kumar"  </p>
+## Support accepted 🔫
+<a href="https://www.buymeacoffee.com/anshux" target="_blank"><img src="https://bitbucket.org/tinztwins/materials/raw/9c7e16f90082b88ed52164fab06f0dbed18c8c86/yellow_bmc.png" alt="Buy Me A Coffee" style="height: 41px !important; width: 174px !important;" ></a>
 
 - 🔭 I’m currently working on **my portfolio**
 
