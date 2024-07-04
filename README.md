@@ -9,7 +9,7 @@
 ## Support accepted 🔫
 <a href="https://www.buymeacoffee.com/anshux" target="_blank"><img src="https://bitbucket.org/tinztwins/materials/raw/9c7e16f90082b88ed52164fab06f0dbed18c8c86/yellow_bmc.png" alt="Buy Me A Coffee" style="height: 41px !important; width: 174px !important;" ></a>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 Currently developing **a game**
 
 - 💬 Ask me about **full stack development**
 
